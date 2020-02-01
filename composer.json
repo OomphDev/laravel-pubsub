@@ -1,11 +1,11 @@
 {
-  "name": "superbalist/laravel-pubsub",
+  "name": "oomphdev/laravel-pubsub",
   "description": "A Pub-Sub abstraction for Laravel",
   "license": "MIT",
   "authors": [
     {
-      "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@superbalist.com"
+      "name": "OomphDev",
+      "email": "elir.hooten@gmail.com"
     }
   ],
   "require": {
